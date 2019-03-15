@@ -1,0 +1,12 @@
+[package]
+name = "pchmod"
+version = "0.1.0"
+authors = ["Gregory Meyer <gregjm@umich.edu>"]
+edition = "2018"
+description = "Changes the access permissions of files or directories."
+
+[dependencies]
+clap = "^2.32.0"
+env_logger = "^0.6.1"
+log = "^0.4.6"
+rayon = "^1.0.3"
