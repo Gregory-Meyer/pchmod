@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Gregory Meyer <gregjm@umich.edu>"]
 edition = "2018"
 description = "Changes the access permissions of files or directories."
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Gregory-Meyer/pchmod"
 
 [dependencies]
 clap = "^2.32.0"
